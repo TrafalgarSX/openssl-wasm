@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/workspace/cprojects/opensslTest/unixbuild",
+  "command": "C:\\Users\\guoya\\scoop\\apps\\gcc\\current\\bin\\gcc.exe -ID:/workspace/cprojects/opensslTest/include -ID:/workspace/dev/include -ID:/workspace/dev/vcpkg/installed/x64-windows/include -std=gnu11 -Wall -o CMakeFiles\\openssl_test.dir\\src\\opensslTest.c.obj -c D:\\workspace\\cprojects\\opensslTest\\src\\opensslTest.c",
+  "file": "D:\\workspace\\cprojects\\opensslTest\\src\\opensslTest.c",
+  "output": "CMakeFiles\\openssl_test.dir\\src\\opensslTest.c.obj"
+}
+]
